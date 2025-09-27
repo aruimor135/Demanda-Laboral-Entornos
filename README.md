@@ -5,7 +5,7 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 3.135
 - Mundial: 154.747
 ### Captura: Java a nivel mundial
-![Java Mundial](capturas/java_mundial.png)
+![Java Mundial](ruta_a_la_imagen_mundial_java.png)
 ### Captura: Java en España
 ![Java España](capturas/java_españa.png)
 
