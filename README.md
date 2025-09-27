@@ -5,17 +5,17 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 3.135
 - Mundial: 154.747
 ### Captura: Java a nivel mundial
-![Java Mundial](captura/java_mundial.png)
+![Java Mundial](capturas/java_mundial.png)
 ### Captura: Java en España
-![Java España](ruta_a_la_imagen_espana_java.png)
+![Java España](capturas/java_españa.png)
 
 ## Python
 - España: 3.188
 - Mundial: 156.329
 ### Captura: Python a nivel mundial
-![Python Mundial](ruta_a_la_imagen_mundial_python.png)
+![Python Mundial](capturas/python_mundial.png)
 ### Captura: Python en España
-![Python España](ruta_a_la_imagen_espana_python.png)
+![Python España](capturas/python_españa.png)
 
 ## C#
 - España: 351
