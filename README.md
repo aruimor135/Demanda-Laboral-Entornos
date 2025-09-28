@@ -21,9 +21,9 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 351
 - Mundial: 22.873
 ### Captura: C# a nivel mundial
-![C# Mundial](ruta_a_la_imagen_mundial_csharp.png)
+![C# Mundial](capturas/C#_mundial.png)
 ### Captura: C# en España
-![C# España](ruta_a_la_imagen_espana_csharp.png)
+![C# España](capturas/C#_españa.png)
 
 ## C y C++
 - España: 529
