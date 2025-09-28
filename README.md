@@ -7,7 +7,7 @@ Filtros: Jornada completa y desarrollo de software.
 ### Captura: Java a nivel mundial
 ![Java Mundial](java_mundial.png)
 ### Captura: Java en España
-![Java España](capturas/java_españa.png)
+![Java España](java_españa.png)
 
 ## Python
 - España: 3.188
