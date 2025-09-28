@@ -37,9 +37,9 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 3.160
 - Mundial: 157.577
 ### Captura: JavaScript a nivel mundial
-![JavaScript Mundial](capturas/javascript_mundial.png)
+![JavaScript Mundial](capturas/JavaScript_mundial.png)
 ### Captura: JavaScript en España
-![JavaScript España](capturas/javascript_españa.png)
+![JavaScript España](capturas/JavaScript_espa%C3%B1a.png)
 
 ## PHP
 - España: 263
