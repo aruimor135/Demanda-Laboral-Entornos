@@ -29,31 +29,31 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 529
 - Mundial: 30.994
 ### Captura: C y C++ a nivel mundial
-![C y C++ Mundial](ruta_a_la_imagen_mundial_c_cpp.png)
+![C y C++ Mundial](capturas/C_y_C++_mundial.png)
 ### Captura: C y C++ en España
-![C y C++ España](ruta_a_la_imagen_espana_c_cpp.png)
+![C y C++ España](capturas/C_y_C++_españa.png)
 
 ## JavaScript
 - España: 3.160
 - Mundial: 157.577
 ### Captura: JavaScript a nivel mundial
-![JavaScript Mundial](ruta_a_la_imagen_mundial_javascript.png)
+![JavaScript Mundial](capturas/javascript_mundial.png)
 ### Captura: JavaScript en España
-![JavaScript España](ruta_a_la_imagen_espana_javascript.png)
+![JavaScript España](capturas/javascript_españa.png)
 
 ## PHP
 - España: 263
 - Mundial: 10.278
 ### Captura: PHP a nivel mundial
-![PHP Mundial](ruta_a_la_imagen_mundial_php.png)
+![PHP Mundial](capturas/php_mundial.png)
 ### Captura: PHP en España
-![PHP España](ruta_a_la_imagen_espana_php.png)
+![PHP España](capturas/php_españa.png)
 
 ## VB .NET
 - España: 48
 - Mundial: 6.122
 ### Captura: VB .NET a nivel mundial
-![VB .NET Mundial](ruta_a_la_imagen_mundial_vbnet.png)
+![VB .NET Mundial](capturas/vbnet_mundial.png)
 ### Captura: VB .NET en España
 ![VB .NET España](ruta_a_la_imagen_espana_vbnet.png)
 
@@ -61,9 +61,9 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 13
 - Mundial: 423
 ### Captura: Ruby a nivel mundial
-![Ruby Mundial](ruta_a_la_imagen_mundial_ruby.png)
+![Ruby Mundial](capturas/ruby_mundial.png)
 ### Captura: Ruby en España
-![Ruby España](ruta_a_la_imagen_espana_ruby.png)
+![Ruby España](capturas/ruby_españa.png)
 
 ## Tabla comparativa
 | Lenguaje   | Mundial | España |
