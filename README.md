@@ -5,7 +5,7 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 3.135
 - Mundial: 154.747
 ### Captura: Java a nivel mundial
-![Java Mundial](https://github.com/aruimor135/Demanda-Laboral-Entornos/blob/main/java_mundial.png)
+![Java Mundial](capturas/java_mundial.png)
 ### Captura: Java en España
 ![Java España](java_españa.png)
 
