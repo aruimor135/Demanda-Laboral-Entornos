@@ -29,7 +29,7 @@ Filtros: Jornada completa y desarrollo de software.
 - España: 529
 - Mundial: 30.994
 ### Captura: C y C++ a nivel mundial
-![C y C++ Mundial](capturas/C_y_C++_mundial.png)
+![C y C++ Mundial](capturas/C y C++_mundial.png)
 ### Captura: C y C++ en España
 ![C y C++ España](capturas/C_y_C++_españa.png)
 
